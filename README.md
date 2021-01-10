@@ -2,7 +2,7 @@
 Gcode processing tools
 
 GCODE TRANSPOSITION UTILITY:
-Copyright 2008 by Aulë (http://aule.ganoksin.com/blogs/), all rights reserved.
+Copyright 2020 by IronAutie (http://iron-autie.com), all rights reserved.
 
 This code may be used to help in engraving or machining by either for-profit or 
 not-for-profit organizations.   This code's other usage conditions are covered 
