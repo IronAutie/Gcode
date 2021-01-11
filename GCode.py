@@ -197,7 +197,7 @@ if __name__ == '__main__':
 PYTHON 3.1
 
 GCODE TRANSPOSITION UTILITY:
-Copyright 2008 by Aule (http://aule.ganoksin.com/blogs/), all rights reserved.
+Copyright 2008 by IronAutie (http://iron-autie.com), all rights reserved.
 
 This code may be used to help in engraving or machining by either for-profit or 
 not-for-profit organizations.   This code's other usage conditions are covered 
